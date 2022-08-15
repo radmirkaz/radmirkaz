@@ -19,3 +19,15 @@
 [linkedin]: https://www.linkedin.com/in/radmir-zosimov-30256122b/
 
 <!-- ![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/vadimtimakin/competitions) -->
+
+🏆 **Competition backgroud**
+* 🥇 GEEKS & FREAKS HACKATHON
+* 🥈 Machines Can See 2022
+* 🥈 Цифровой прорыв 2022 ДФО
+* 🥉 MLB Explainability Prize 2021 Kaggle
+🏆 **Kaggle medals**
+* 🥈 MLB Player Digital Engagement Forecasting (17/852)
+* 🥈 Image Matching Challenge 2022 (28/642)
+* 🥈 U.S. Patent Phrase to Phrase Matching (83/1889)
+* 🥈 Google Brain - Ventilator Pressure Prediction (124/2604)
+* 🥉 Happywhale - Whale and Dolphin Identification (81/1588)
