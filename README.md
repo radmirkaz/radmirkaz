@@ -25,6 +25,7 @@
 * 🥈 Machines Can See 2022
 * 🥈 Цифровой прорыв 2022 ДФО
 * 🥉 MLB Explainability Prize 2021 Kaggle
+
 🏆 **Kaggle medals**
 * 🥈 MLB Player Digital Engagement Forecasting (17/852)
 * 🥈 Image Matching Challenge 2022 (28/642)
