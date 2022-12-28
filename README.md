@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:dart: **You can find more information about me [here](https://www.linkedin.com/in/radmir-zosimov-30256122b/).**
+:dart: **You can find more information about me [here](https://t.me/radmirkazhere).**
 
 📫 **Connect with me (social media and public profiles):** 
 
