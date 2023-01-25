@@ -18,13 +18,14 @@
 [discord]: https://discord.com/users/581340193689174039
 [linkedin]: https://www.linkedin.com/in/radmir-zosimov-30256122b/
 
-<!-- ![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/vadimtimakin/competitions) -->
+📣 [**Blog**]: https://t.me/radmirkazhere
 
 🏆 **Competition backgroud**
 * 🥇 GEEKS & FREAKS HACKATHON
 * 🥈 Machines Can See 2022
 * 🥈 HackWagon 2022
 * 🥈 Цифровой прорыв 2022 ДФО
+* 🥈 HackWagon 2022
 
 🏆 **Kaggle medals**
 * 🥇 MLB Explainability Prize 2021
@@ -33,4 +34,8 @@
 * 🥈 U.S. Patent Phrase to Phrase Matching (83/1889)
 * 🥈 Google Brain - Ventilator Pressure Prediction (124/2604)
 * 🥉 Happywhale - Whale and Dolphin Identification (81/1588)
+
+🎱 **Work experience**
+* Deep Learning Engineer at Tochka Bank June 2022-Jan 2023
+* Deep Learning Engineer at offconcern.com Nov 2022 - since
 
