@@ -22,10 +22,12 @@
 
 🏆 **Competition backgroud**
 * 🥇 GEEKS & FREAKS HACKATHON
+* 🥇 Ai Academy Hackathon
 * 🥈 Machines Can See 2022
 * 🥈 HackWagon 2022
 * 🥈 Цифровой прорыв 2022 ДФО
 * 🥈 HackWagon 2022
+* 🥉 Krasnodar Real Estate Hack 2023
 
 🏆 **Kaggle medals**
 * 🥇 MLB Explainability Prize 2021
