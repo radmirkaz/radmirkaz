@@ -20,7 +20,7 @@
 
 📣 **Blog**: https://t.me/radmirkazhere
 
-🏆 **Competition backgroud**
+🏆 **Competition background**
 * 🥇 GEEKS & FREAKS HACKATHON
 * 🥇 Ai Academy Hackathon
 * 🥈 Machines Can See 2022
