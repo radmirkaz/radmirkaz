@@ -29,7 +29,7 @@
 * 🥈 HackWagon 2022
 * 🥉 Krasnodar Real Estate Hack 2023
 
-🏆 **Kaggle medals**
+🏆 **Kaggle**
 * 🥇 MLB Explainability Prize 2021
 * 🥈 MLB Player Digital Engagement Forecasting (17/852)
 * 🥈 Image Matching Challenge 2022 (28/642)
