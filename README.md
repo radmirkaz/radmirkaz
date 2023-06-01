@@ -11,7 +11,7 @@
 
 `// preferably Telegram`
   
-**ODS slack:** `@radmirkaz` | **Mail:** `hijestyt77@gmail.com`
+**Mail:** `hijestyt77@gmail.com`
 
 [kaggle]: https://www.kaggle.com/hijest
 [telegram]: https://t.me/radmirkaz
