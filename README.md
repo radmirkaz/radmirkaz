@@ -18,8 +18,6 @@
 [discord]: https://discord.com/users/581340193689174039
 [linkedin]: https://www.linkedin.com/in/radmir-zosimov-30256122b/
 
-📣 **Blog**: https://t.me/radmirkazhere
-
 🏆 **Competition background**
 * 🥇 GEEKS & FREAKS HACKATHON
 * 🥇 Ai Academy Hackathon
