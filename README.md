@@ -25,6 +25,7 @@
 * 🥈 HackWagon 2022
 * 🥈 Цифровой прорыв 2022 ДФО
 * 🥉 Krasnodar Real Estate Hack 2023
+* 🥉 AI Challenge 2023 track 5
 
 🏆 **Kaggle**
 * 🥇 MLB Explainability Prize 2021
