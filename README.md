@@ -37,7 +37,7 @@
 * 🥉 Happywhale - Whale and Dolphin Identification (81/1588)
 
 🎱 **Work experience**
-* Deep Learning Engineer at Tochka Bank June 2022-Jan 2023
+* Deep Learning Engineer at Tochka Bank June 2022 - Jan 2023
 * Deep Learning Engineer at offconcern.com Nov 2022 - July 2023
-* Deep Learning Engineer at Qlan July 2023 - since
+* Deep Learning Engineer at Qlan July 2023 - Oct 2023
 
