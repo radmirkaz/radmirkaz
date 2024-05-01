@@ -35,6 +35,7 @@
 * 🥈 U.S. Patent Phrase to Phrase Matching (83/1889)
 * 🥈 Google Brain - Ventilator Pressure Prediction (124/2604)
 * 🥉 Happywhale - Whale and Dolphin Identification (81/1588)
+* 🥉 PII Data Detection - The Learning Agency Lab (175/2048)
 
 🎱 **Work experience**
 * Deep Learning Engineer at Tochka Bank June 2022 - Jan 2023
