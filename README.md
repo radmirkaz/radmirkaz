@@ -19,6 +19,7 @@
 [linkedin]: https://www.linkedin.com/in/radmir-zosimov-30256122b/
 
 🏆 **Competition background**
+* 🥇 Цифровой прорыв 2024 ПФО RAG-system
 * 🥇 GEEKS & FREAKS HACKATHON
 * 🥇 Ai Academy Hackathon
 * 🥈 Machines Can See 2022
