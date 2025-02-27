@@ -43,5 +43,5 @@
 * Deep Learning Engineer at Tochka Bank June 2022 - Jan 2023
 * Deep Learning Engineer at offconcern.com Nov 2022 - July 2023
 * Deep Learning Engineer at Qlan July 2023 - Oct 2023
-* MLE at DataPoints.tech Apr 2024 - since
+* MLE at DataPoints.tech Apr 2024 - Oct 2024
 
