@@ -11,7 +11,7 @@
 
 `// preferably Telegram`
   
-**Mail:** `hijestyt77@gmail.com`
+**Mail:** `radmirkaz.ca@gmail.com`
 
 [kaggle]: https://www.kaggle.com/hijest
 [telegram]: https://t.me/radmirkaz
