@@ -15,20 +15,20 @@
 [discord]: https://discord.com/users/581340193689174039
 
 🏆 **Competition background**
-* 🥇 Цифровой прорыв 2024 ПФО RAG-system ($3000)
-* 🥇 GEEKS & FREAKS HACKATHON ($1500)
-* 🥇 Ai Academy Hackathon ($4000)
+* 🥇 Цифровой прорыв 2024 ПФО RAG-system 
+* 🥇 GEEKS & FREAKS HACKATHON
+* 🥇 Ai Academy Hackathon
 * 🥇 CAN AI 2025 by IOAI
-* 🥈 Machines Can See 2022 ($3000)
-* 🥈 HackWagon 2022 ($1000)
-* 🥈 Цифровой прорыв 2022 ДФО ($2000)
-* 🥈 NTO 2023 ($12000)
-* 🥈 AI Challenge 2024 International Track 1 (Large LLMs) ($11000)
-* 🥉 Krasnodar Real Estate Hack 2023 ($500)
-* 🥉 AI Challenge 2023 track 5 ($4500)
+* 🥈 Machines Can See 2022 
+* 🥈 HackWagon 2022
+* 🥈 Цифровой прорыв 2022 ДФО 
+* 🥈 NTO 2023 
+* 🥈 AI Challenge 2024 International Track 1 (Large LLMs)
+* 🥉 Krasnodar Real Estate Hack 2023
+* 🥉 AI Challenge 2023 track 5
 
 🏆 **Kaggle**
-* 🥇 MLB Explainability Prize 2021 ($5000)
+* 🥇 MLB Explainability Prize 2021 
 * 🥈 MLB Player Digital Engagement Forecasting (17/852)
 * 🥈 Image Matching Challenge 2022 (28/642)
 * 🥈 U.S. Patent Phrase to Phrase Matching (83/1889)
