@@ -35,5 +35,5 @@
 * 🥈 Google Brain - Ventilator Pressure Prediction (124/2604)
 * 🥉 Happywhale - Whale and Dolphin Identification (81/1588)
 * 🥉 PII Data Detection - The Learning Agency Lab (175/2048)
-
+* 🥉 ROGII - Wellbore Geology Prediction 
 
